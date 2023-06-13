@@ -27,7 +27,7 @@ Flowchart:
 
 ![image](https://github.com/aparnasahu5/Cryptographic-File-System-/assets/95071662/1bb20f12-e0ab-4bbd-bd62-7f7dfc96454d)
 
-Screenshots of the Prototype:
+Screenshots of the Machine Code:
 
 ![image](https://github.com/aparnasahu5/Cryptographic-File-System-/assets/95071662/c454cbdc-43c4-4390-9e5d-9c430db44c48)
 
